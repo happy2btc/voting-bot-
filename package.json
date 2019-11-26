@@ -38,7 +38,7 @@
     "languagedetect": "1.1.1",
     "moment": "2.21.0",
     "moment-timezone": "0.5.14",
-    "atob": "2.0.3",
+    "atob": "2.1.2",
     "btoa": "1.2.1",
     "mongodb": "2.0.43"
   }

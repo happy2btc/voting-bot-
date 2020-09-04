@@ -40,6 +40,6 @@
     "moment-timezone": "0.5.14",
     "atob": "2.0.3",
     "btoa": "1.2.1",
-    "mongodb": "2.0.43"
+    "mongodb": "3.6.1"
   }
 }
